@@ -96,11 +96,11 @@ body{
 .right-side .input-box textarea{
   padding-top: 6px;
 }
-.right-side .button{
+.right-side .submit{
   display: inline-block;
   margin-top: 12px;
 }
-.right-side .button input[type="button"]{
+.right-side .submit{
   color: #fff;
   font-size: 18px;
   outline: none;
@@ -111,7 +111,7 @@ body{
   cursor: pointer;
   transition: all 0.3s ease;
 }
-.button input[type="button"]:hover{
+.submit input .submit:hover{
   background: #5029bc;
 }
 @media (max-width: 950px) {
