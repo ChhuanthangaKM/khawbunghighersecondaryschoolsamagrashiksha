@@ -175,6 +175,14 @@ body
     color: black;
     padding-bottom: 0px;
 }
+.latest-updates-ul li
+{
+    border-bottom: 1px dotted red;
+}
+.latest-updates-ul li:last-child
+{
+border-bottom: none;
+}
 
 .footer{
     background: #232f3e;
